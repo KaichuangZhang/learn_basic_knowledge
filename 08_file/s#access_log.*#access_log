@@ -1,0 +1,41 @@
+# 这个 viminfo 文件是由 Vim 9.0 生成的。
+# 如果要自行修改请特别小心！
+
+# Viminfo version
+|1,4
+
+# 此文件建立时 'encoding' 的值
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~H
+# 命令行 历史记录 (从新到旧):
+:q
+|2,0,1682347019,,"q"
+::q
+|2,0,1682347018,,":q"
+
+# 查找字符串 历史记录 (从新到旧):
+
+# 表达式 历史记录 (从新到旧):
+
+# 输入行 历史记录 (从新到旧):
+
+# 输入行 历史记录 (从新到旧):
+
+# 寄存器:
+
+# 文件标记:
+'0  1  0  ~/zhangkaichuang/dev_k8s/go_learn/08_file/read_file.go
+|4,48,1,0,1682347019,"~/zhangkaichuang/dev_k8s/go_learn/08_file/read_file.go"
+
+# 跳转列表 (从新到旧):
+-'  1  0  ~/zhangkaichuang/dev_k8s/go_learn/08_file/read_file.go
+|4,39,1,0,1682347019,"~/zhangkaichuang/dev_k8s/go_learn/08_file/read_file.go"
+
+# 文件内的标记历史记录 (从新到旧):
+
+> ~/zhangkaichuang/dev_k8s/go_learn/08_file/read_file.go
+	*	1682347018	0
+	"	1	0
