@@ -13,8 +13,6 @@ func returnType(x interface{}) {
 	fmt.Printf("%T\n", t)
 }
 
-type Dog struct{}
-
 func main() {
 	var a float32 = 1.234
 	returnType(a)
@@ -22,6 +20,4 @@ func main() {
 	var b int8 = 10
 	returnType(b)
 
-	var dog Dog
-	returnType(dog)
 }

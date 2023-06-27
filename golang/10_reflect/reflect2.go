@@ -26,8 +26,6 @@ func returnValue(x interface{}) {
 	}
 }
 
-type Dog struct{}
-
 func main() {
 	var a float32 = 1.234
 	returnValue(&a)
@@ -35,6 +33,4 @@ func main() {
 	var b int8 = 10
 	returnValue(&b)
 
-	var dog Dog
-	returnValue(&dog)
 }
